@@ -1,0 +1,5 @@
+Steave_jobs 56
+warren_buffet 87
+Bill_Gates 65
+Alex_ross 45
+Hillary_Cliton 70

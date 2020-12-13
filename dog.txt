@@ -1,0 +1,6 @@
+bulldog
+12
+34.0
+pomerian
+5
+23
